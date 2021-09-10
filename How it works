@@ -1,0 +1,27 @@
+I figured I'd add this file to give an explanation of the system that the software uses to validate.
+It's different for both versions but here's a quick rundown.
+
+*****************************************
+VocalWriter 1.0
+Must be 9 digits
+Must have a 7 at digit 6
+Individual digits must add up to 39
+----------------------------------------
+VocalWriter 2.0
+Must have 12 digits
+Must have 1 at digit 9
+Individual digits must add up to 61
+
+****************************************
+
+
+It's surprisingly simple. You can create a number with nothing but a calculator.
+Feel free to take this list and make your own number generator with it. 
+Whatever you make will probably be more efficiant than what I made. Mine can fail 1000 times before it gets a valid number.
+
+Just don't take credit for cracking it. If you do, that's kinda sad. :P
+
+Contact me on Discord if you have any questions. My Discord is DeepSeaSqueeze#2000.
+
+
+                                                                                 ~~ DeepSeaSqueeze
